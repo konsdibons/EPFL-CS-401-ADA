@@ -16,13 +16,12 @@ Can we identify patterns in beer ratings based on the reviewer’s behavior and 
 3. Can we develop a method to combine the standard deviation of ratings and the sentiment of review text to produce “objective” ratings that account for a user’s past rating behavior?
 This research question aims to delve into the subjective nature of beer reviews and explore the possibility of deriving more objective measures of beer quality. It also seeks to understand the influence of individual reviewer behavior on beer ratings.
 
-### Question 2: Geographic beer bias
-Is the concept of a "beer nation" more than just a label? Specifically, we aim to investigate:
+### Question 2: Geographic beer bias: focus on the raters
+Is the concept of a "beer nation" more than just a label? How are nations perceived in the field of beer? Are these perceptions based on reality or are they just empty words? Specifically, we aim to investigate:
 
-1. How are nations perceived in the field of beer? Are these perceptions based on reality or are they just empty words?
-2. Can we evaluate the average beer ratings of different countries and determine if there are noticeable differences?
-3. Do the sources of these ratings (domestic or international users) influence the average rating of a country's beer?
-4. Do users show a preference for beers from their home country, indicating the influence of national pride on beer ratings?
+1. Can we evaluate the average beer ratings of different countries and determine if there are noticeable differences?
+2. Do the sources of these ratings (domestic or international users) influence the average rating of a country's beer?
+3. Do users show a preference for beers from their home country, indicating the influence of national pride on beer ratings? Are there differences between countries in this respect?
 
 This research question aims to uncover the truth behind the label of "beer nation" and explore the influence of national pride and perception on beer ratings. It also seeks to understand the global landscape of beer appreciation and how it is shaped by national identities.
 
